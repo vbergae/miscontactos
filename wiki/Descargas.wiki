@@ -1,0 +1,13 @@
+#summary Página de descargas
+#labels Featured
+
+= Windows =
+
+Versión 0.0.2
+
+
+= Linux =
+_Próximamente_
+
+= Mac OS X =
+_Próximamente
