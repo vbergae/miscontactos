@@ -4,7 +4,7 @@
 QT += sql # \
 
 # testlib
-TARGET = Agenda
+TARGET = MisContactos
 TEMPLATE = app
 SOURCES += main.cpp \
     mainwindow.cpp
