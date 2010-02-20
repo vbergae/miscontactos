@@ -1,6 +1,4 @@
 #labels Featured
-#Capturas de pantalla de MisContactos en distinantas plataformas
-
 = Capturas de pantalla de MisContactos =
 
 == Linux (OpenSUSE 11.2)==
