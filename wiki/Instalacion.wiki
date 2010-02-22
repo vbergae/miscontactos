@@ -6,8 +6,12 @@
 === Windows XP/Vista/7 ===
 Puedes bajarte el instalador desde la sección de [http://code.google.com/p/miscontactos/downloads/list Descargas]
 
+Arranca el instalador y sigue las instrucciones
+
 === MacOS X ===
-_Próximamente_
+Puedes descargar la imagen dmg desde la sección de [http://code.google.com/p/miscontactos/downloads/list Descargas].
+
+Monta la imagen y arrastra la aplicación MisContactos a tu carpeta de Aplicaciones
 
 === Linux ===
 _Próximamente_
